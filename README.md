@@ -1,4 +1,7 @@
 # Arduino LCD 20x4 Game with Analog Joystick
+![Access Control System](https://github.com/ahmed-eldesoky284/Arduino-LCD-20x4-Game-with-Analog-Joystick/blob/main/Capture.PNG)
+
+
 
 This repository contains the source code and documentation for a game implemented on an Arduino board with an LCD 20x4 display and an analog joystick using the Wokwi simulator.
 
