@@ -52,12 +52,12 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 ## Acknowledgements
 
-- The game was created by \[Mohamed Abdallah\] as a personal project.
+- The game was created by \[Ahmed Eldesoky\] as a personal project.
 - The Wokwi Arduino Simulator was used for testing and running the game ([https://wokwi.com/arduino](https://wokwi.com/arduino)).
 - \[Thanks for samrt technology egypt for supporing this project and the hardware components used\]
 
 ## Contact
 
-If you have any questions, suggestions, or issues regarding this game, please feel free to contact \[Your Name\] via \[email address\].
+If you have any questions, suggestions, or issues regarding this game, please feel free to contact \[Ahmed Eldesoky\] via \[ahmedeldesoky284@gmail.com\].
 
 Enjoy playing the game!
