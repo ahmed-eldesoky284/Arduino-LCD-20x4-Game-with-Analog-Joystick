@@ -16,14 +16,14 @@ To run this game in the Wokwi simulator, you will need the following:
 - An Arduino board (compatible with Wokwi)
 - An LCD 20x4 display
 - An analog joystick
-- Wokwi Arduino Simulator ([https://wokwi.com/arduino](https://wokwi.com/arduino))
+- Wokwi Arduino Simulator ([https://wokwi.com/projects/372974068662107137](https://wokwi.com/projects/372974068662107137))
 
 ## Setup
 
 To set up the game on your local machine, follow these steps:
 
 1. Clone this repository to your local machine or download it as a ZIP file.
-1. Open the Wokwi Arduino Simulator in your web browser ([https://wokwi.com/arduino](https://wokwi.com/arduino)).
+1. Open the Wokwi Arduino Simulator in your web browser ([https://wokwi.com/projects/372974068662107137](https://wokwi.com/projects/372974068662107137)).
 1. Click on the "Open file" button in the simulator and select the `game.ino` file from the repository.
 1. Connect your Arduino board with the LCD 20x4 display and the analog joystick to your computer.
 1. Make sure the board and port settings in the simulator match your setup.
@@ -53,7 +53,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 ## Acknowledgements
 
 - The game was created by \[Ahmed Eldesoky\] as a personal project.
-- The Wokwi Arduino Simulator was used for testing and running the project ([https://wokwi.com/arduino](https://wokwi.com/arduino)).
+- The Wokwi Arduino Simulator was used for testing and running the game ([https://wokwi.com/projects/372974068662107137](https://wokwi.com/projects/372974068662107137)).
 - \[Thanks for samrt technology egypt for supporing this project and the hardware components used\]
 
 ## Contact
