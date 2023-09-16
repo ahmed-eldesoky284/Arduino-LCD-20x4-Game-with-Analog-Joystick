@@ -53,7 +53,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 ## Acknowledgements
 
 - The game was created by \[Ahmed Eldesoky\] as a personal project.
-- The Wokwi Arduino Simulator was used for testing and running the game ([https://wokwi.com/arduino](https://wokwi.com/arduino)).
+- The Wokwi Arduino Simulator was used for testing and running the project ([https://wokwi.com/arduino]([https://wokwi.com/arduino](https://wokwi.com/projects/375357526304435201))).
 - \[Thanks for samrt technology egypt for supporing this project and the hardware components used\]
 
 ## Contact
